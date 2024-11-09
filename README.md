@@ -18,4 +18,4 @@ The Ludo Dice Game generates a random dice number (from 1 to 6) whenever the but
 - **Randomized Dice Numbers**: JavaScript is used to generate random numbers between 1 and 6.
 
 
-![Homepage Screenshot](homepage.png)
+![Homepage Screenshot](img/homepage.png)
